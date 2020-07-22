@@ -1,0 +1,6 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+udagram-api/node_modules/
+udagram-frontend/node_modules/
+.vscode/
